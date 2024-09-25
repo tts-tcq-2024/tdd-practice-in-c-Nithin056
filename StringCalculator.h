@@ -6,6 +6,7 @@ int readArrStart =0;
 int TotalNum =0;
 int lastidex =0;
 
+
 const int TensArr[4]={1,10,100,1000};
 
 int CharToInt(const char CutChar)
