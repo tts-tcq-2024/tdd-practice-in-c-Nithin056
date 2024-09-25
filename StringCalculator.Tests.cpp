@@ -8,6 +8,7 @@ TEST(StringCalculatorAddTests, ExpectZeroForNoCharNumInput) {
     ASSERT_EQ(result, expectedresult);
 }
 
+
 TEST(StringCalculatorAddTests, ExpectZeroForEmtyStrInput) {
     int expectedresult = 0;
     const char* input = "";
